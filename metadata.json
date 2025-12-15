@@ -1,0 +1,5 @@
+{
+  "name": "FlashResponse.ai",
+  "description": "Interfaz de chat de IA de alto rendimiento y baja latencia que demuestra las capacidades de Gemini 2.0 Flash Lite con métricas de rendimiento en tiempo real.",
+  "requestFramePermissions": []
+}
